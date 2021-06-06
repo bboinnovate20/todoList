@@ -681,7 +681,7 @@ p.time {
         margin-bottom: 1px;
     }
     .todo-main {
-         min-width: 270px;
+         min-width: 280px;
          min-height: 10px;
         /* display: none; */
     }
@@ -696,7 +696,7 @@ p.time {
     
     }
     .all-schedule {
-        width: 75%;
+        width: 80%;
         
     }
 
@@ -720,7 +720,7 @@ p.time {
         max-height: 55px;
     }
     form {
-        max-width: 15rem;
+        max-width: 15.5rem;
     }
     select, input, textarea,.text-input, .des-input, .select-input {
         max-width: 100%;
